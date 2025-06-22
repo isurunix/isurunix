@@ -1,17 +1,18 @@
 # Hey there! 👋 I'm Isuru
 
-Welcome to my corner of the coding universe! I'm a **Lead Developer & Associate Technical Specialist** at **Wiley**, passionate about building scalable systems that actually work in the real world.
+I'm a full-stack engineer, passionate about building scalable systems that work in the real world.
 
-## 🚀 What I Do
+## What I Do
 
-I lead agile teams in crafting enterprise-grade distributed systems. Think of me as the guy who turns complex requirements into elegant, scalable solutions that your future self will thank you for.
+I learn, I think, and I code
 
 **Currently obsessed with:**
-- Building microservices that don't hate each other 🤝
-- Making DevOps pipelines so smooth they practically run themselves ⚙️
-- Architecting cloud solutions that scale like magic ☁️
+- Learning new things every day
+- Building microservices that don't hate each other
+- Designing software solutions that are scalable and maintainable
+- Experimenting with AI-aided coding tools
 
-## 🛠️ My Tech Arsenal
+## My Tech Stack
 
 ```java
 public class IsursBrain {
@@ -28,32 +29,27 @@ public class IsursBrain {
 }
 ```
 
-## 🌟 What You'll Find Here
+## What You'll Find Here
 
 - **Learning & Experimentation**: Personal projects where I explore new technologies and concepts
-- **GraphQL Adventures**: Spring Boot + GraphQL and React + GraphQL demos for modern API development
-- **DevOps Utilities**: Docker setups and deployment scripts that make development life easier
-- **Academic Projects**: University collaborations like the OUSL Online Activity Diary system
-- **Local Solutions**: Sri Lankan-focused projects like train schedules (because we all need to catch that train!)
+- **Utilities**: Different development setups and deployment scripts that make development life easier
+- **Academic Projects**: Things I did during my undergraduate days
+- **Pet Projects**: Small pet projects that I do now and then when inspiration stuck my brain
 - **Development Tools**: Handy scripts and configurations that solve real-world problems
 
-## 📝 Beyond the Code
+## Beyond the Code
 
 When I'm not deep in distributed systems, you'll find me:
-- Writing about software development on [my blog](#) 📖
-- Watching movies (yes, even the bad ones) 🍿
-- Reading everything from sci-fi to technical documentation 📚
-- Sharing knowledge with the dev community 🤝
+- Writing about software development on [my blog](https://isurubuddhika.dev) 
+- Watching movies (yes, even the bad ones)
+- Reading everything from sci-fi to technical documentation
+- Sharing knowledge with the dev community
 
-## 🌍 Let's Connect!
+## Let's Connect!
 
 - 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/isurubuddhika)
 - 📧 **Email**: Drop me a line about tech, movies, or good book recommendations
-- 🌐 **Location**: Colombo, Sri Lanka 🇱🇰
-
-## 💡 Fun Fact
-
-I believe the best code is the code you don't have to write twice. Also, coffee is a food group in software development. ☕
+- 🌐 **Location**: Colombo, Sri Lanka
 
 ---
 
